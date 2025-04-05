@@ -1,4 +1,3 @@
 # vanshslathiademo
-this is my fisrt repostiry
-
-author vansh slathia
+This is my fisrt Repostiry
+author:-vansh slathia
