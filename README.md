@@ -1,2 +1,4 @@
 # vanshslathiademo
-this is my fisrt repo
+this is my fisrt repostiry
+
+author vansh slathia
